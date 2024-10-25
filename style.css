@@ -359,6 +359,7 @@ article .icon {
 #projects {
   position: relative;
   width: 80%;
+  bottom: 90px;
   right: 30px;
 
 }
